@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/normal"
+        android:title="Aleatorio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cute"
+        android:title="Lindos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sleepy"
+        android:title="Dormilones"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/gif"
+        android:title="GIFs"
+        app:showAsAction="never" />
+</menu>
